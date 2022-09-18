@@ -1,4 +1,4 @@
-#Proof of concept for NYU Course Scraper
+# Proof of concept for NYU Course Scraper
 
 Proof of concept of how an NYU Albert Course scraper could potentially work with Selenium and BeautifulSoup.
 
